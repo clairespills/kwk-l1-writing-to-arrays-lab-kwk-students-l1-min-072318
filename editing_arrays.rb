@@ -24,5 +24,4 @@ def add_colors
   rainbow_colors.push"blue"
   return rainbow_colors
 end
-
-colorize add_colors
+add_colors
