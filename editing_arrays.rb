@@ -25,4 +25,4 @@ def add_colors
   return rainbow_colors
 end
 
-add_colors
+colorize add_colors
