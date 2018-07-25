@@ -98,6 +98,6 @@ first adds "green", then "blue" to the `rainbow_colors` array.
 When completed, the rainbow in your terminal should display something close to
 this:
 
-![a rainbow]()https://ironboard-learn.s3.amazonaws.com/rainbow.png
+![a rainbow](https://ironboard-learn.s3.amazonaws.com/rainbow.png)
 
 # Thanks for fixing the rainbow!
